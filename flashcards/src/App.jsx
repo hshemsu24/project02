@@ -8,7 +8,7 @@ import champsLogo from './assets/champs.png'
 const cardFacts = [
     {question: "Which club has won the most champions league titles?" , answer: "Real Madrid"}, 
     {question: "Which player has scored the most Champions League goals?" , answer: "Cristiano Ronaldo"}, 
-    {question: "Which player has scored the most Champions League goals for one club?" , answer: "Lionel Messi"},
+    {question: "Which player has scored the most Champions League goals for one club?" , answer: "Lionel Messi (Barcelona)"},
     {question: "Who is the youngest goalscorer in Champions League history?", answer: "Ansu Fati (17 years 40 days"},
     {question: "Which league has the most Champions League winners?", answer: "Spanish League"}, 
     {question: "What year did the Champions League change from the European Champion Clubs’ Cup to the Champions League?", answer: "1992"}, 

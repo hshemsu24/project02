@@ -28,9 +28,9 @@ const Flashcard = ({cardFacts}) => {
     return(
         <div className="card">
             
-            <div className="flashcard">
-                {card} 
-            </div>
+            
+                <button className="flashcard" onClick = {flipCard}>{card}</button> 
+           
 
 
 
